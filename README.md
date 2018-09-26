@@ -7,4 +7,8 @@
 其他手机也许能用，也许没用，反正不影响你开机。不会导致开不了机的问题。
 
 
+
+If you not live in China, please don't install.
+
+
 问题反馈 https://github.com/Magisk-Modules-Repo/-OS-GPS-/issues/new
