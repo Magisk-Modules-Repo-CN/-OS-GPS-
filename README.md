@@ -11,4 +11,10 @@
 If you not live in China, please don't install.
 
 
-问题反馈 https://github.com/Magisk-Modules-Repo/-OS-GPS-/issues/new
+*[问题反馈]（https://github.com/Magisk-Modules-Repo/-OS-GPS-/issues/new）
+
+
+##V1.0.1 增加说明和反馈和英文解释
+
+##V1.0.0 初始版本
+
