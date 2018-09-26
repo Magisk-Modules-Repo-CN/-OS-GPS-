@@ -1,7 +1,7 @@
 id=201809251411
 name=氧OS的GPS定位文件换回国内
-version=v1.0.0
-versionCode=246
+version=v1.0.1
+versionCode=247
 author=联盟少侠
 description=201809251411
-minMagisk=1500
+minMagisk=1700
