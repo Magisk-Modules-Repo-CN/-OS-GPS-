@@ -3,5 +3,5 @@ name=氧OS的GPS定位文件换回国内
 version=v1.0.1
 versionCode=247
 author=联盟少侠
-description=201809251411
-minMagisk=1700
+description=If you not live in China, please don't install.
+minMagisk=1500
